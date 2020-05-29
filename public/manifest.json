@@ -1,0 +1,8 @@
+{
+  "short_name": "Live Auction",
+  "name": "Live Auction POC with React, uPort, and Truffle Boilerplate",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
